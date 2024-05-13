@@ -1,4 +1,4 @@
-# Using BERT model for judgements classification
+# Using BERT model for Children's judgements classification
 ## Datasets topic
 > Welfare、Sexassault
 ## Model result we train
